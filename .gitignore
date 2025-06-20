@@ -1,2 +1,3 @@
 /venv-insurance
-/data
+/data/*
+!/data/*.dvc
