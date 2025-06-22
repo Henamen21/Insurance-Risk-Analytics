@@ -1,3 +1,6 @@
 /venv-insurance
 /data/*
 !/data/*.dvc
+__pycache__/
+*.pyc
+dvc
